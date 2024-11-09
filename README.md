@@ -1,6 +1,6 @@
-# new_app
+# Black Templars Quiz app
 
-A new Flutter project.
+First Flutter project
 
 ## Getting Started
 
